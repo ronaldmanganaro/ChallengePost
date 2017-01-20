@@ -12,10 +12,11 @@
        
 
   </p>
-
-
+  
+<h3> Click The Image To View First Look Trailer! </h3>
+<center>
 <a href="https://www.youtube.com/watch?v=f5uik5fgIaI" 
 target="_blank"><img src="http://img.youtube.com/vi/f5uik5fgIaI/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="480" height="360" border="10" /></a>
-
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+</center>
 [logo]: NintendoSwitch.jpg "Nintendo Switch Console"
