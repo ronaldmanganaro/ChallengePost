@@ -1,4 +1,4 @@
 ## The Nintendo Switch
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://github.com/ronaldmanganaro/ChallengePost/blob/gh-pages/NintendoSwitch.jpg "Logo Title Text 1")
 
 
