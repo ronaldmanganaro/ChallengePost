@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## The Nintendo Switch
 
 You can use the [editor on GitHub](https://github.com/ronaldmanganaro/ChallengePost/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
 
